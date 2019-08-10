@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-bookshop/static/css/main.29c0cfc5.chunk.css",
+    "main.js": "/react-bookshop/static/js/main.094e30a5.chunk.js",
+    "main.js.map": "/react-bookshop/static/js/main.094e30a5.chunk.js.map",
+    "runtime~main.js": "/react-bookshop/static/js/runtime~main.a44e2d52.js",
+    "runtime~main.js.map": "/react-bookshop/static/js/runtime~main.a44e2d52.js.map",
+    "static/js/2.1bb3fb32.chunk.js": "/react-bookshop/static/js/2.1bb3fb32.chunk.js",
+    "static/js/2.1bb3fb32.chunk.js.map": "/react-bookshop/static/js/2.1bb3fb32.chunk.js.map",
+    "index.html": "/react-bookshop/index.html",
+    "precache-manifest.484c37203a8530eb7825e1cc17645adc.js": "/react-bookshop/precache-manifest.484c37203a8530eb7825e1cc17645adc.js",
+    "service-worker.js": "/react-bookshop/service-worker.js",
+    "static/css/main.29c0cfc5.chunk.css.map": "/react-bookshop/static/css/main.29c0cfc5.chunk.css.map"
+  }
+}
