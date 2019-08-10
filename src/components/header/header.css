@@ -1,0 +1,25 @@
+.vcenter {
+    display: flex;
+    align-items: center;
+}
+
+h1 a {
+    font-size: 2.2rem;
+    color: cadetblue;
+    font-weight: bold;
+}
+
+h1 a:hover {
+    text-decoration: none;
+    color: rgb(76, 122, 123);
+}
+
+.cart i, a {
+    font-size: 1.3rem;
+    color: cadetblue;
+}
+
+.cart i, a:hover {
+    text-decoration: none;
+    color: rgb(76, 122, 123);
+}

@@ -1,0 +1,18 @@
+.book-title
+{
+    color: cadetblue;
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
+.book-price
+{
+    font-size: 1.4rem;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
+
+.book-cover img{
+    max-width: 100%;
+}

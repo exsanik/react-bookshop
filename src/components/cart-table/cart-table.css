@@ -1,0 +1,20 @@
+.table
+{
+    table-layout: fixed;
+}
+.table .item-id
+{
+    width: 60px;
+}
+.cart-table .action button
+{
+    margin-right: 5px;
+}
+
+.cart-table .total
+{
+    text-align: right;
+    font-size: 1.3rem;
+    margin-right: 10px;
+    font-weight: bold;
+}
